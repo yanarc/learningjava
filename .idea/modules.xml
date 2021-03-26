@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IOtest/IOtest.iml" filepath="$PROJECT_DIR$/IOtest/IOtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_structure_algorithm/data_structure_algorithm.iml" filepath="$PROJECT_DIR$/data_structure_algorithm/data_structure_algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvmtest/jvmtest.iml" filepath="$PROJECT_DIR$/jvmtest/jvmtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/knowledge_point/knowledge_point.iml" filepath="$PROJECT_DIR$/knowledge_point/knowledge_point.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learningjava.iml" filepath="$PROJECT_DIR$/learningjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcodetest/leetcodetest.iml" filepath="$PROJECT_DIR$/leetcodetest/leetcodetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offer/offer.iml" filepath="$PROJECT_DIR$/offer/offer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
+    </modules>
+  </component>
+</project>
